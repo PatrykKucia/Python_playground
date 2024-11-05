@@ -1,6 +1,5 @@
 # Plik: test_math_functions.py
 ## aby urychomić ->python -m pytest test_math_functions.py
-
 from math_functions import add
 
 def test_add_positive_numbers():

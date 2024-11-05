@@ -2,6 +2,7 @@ print("____Arithmetic____")
 
 a = 10
 b = 3
+#f dla formatowalnego stringa
 print(f"dodawanie: {a + b}")  # dodawanie
 print(f"odejmowanie: {a - b}")  # odejmowanie
 print(f"mnożenie: {a * b}")  # mnożenie
